@@ -9,7 +9,7 @@
     }
   ],
   "autoload": {
-    "Yivoff/TelegramType" : "src/Type"
+    "Yivoff/TelegramType" : "src/TelegramType"
   },
   "require-dev": {
     "nette/php-generator": "^4.1"

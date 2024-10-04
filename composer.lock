@@ -4,8 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "23c5311993dcf1e27b56ed5e2f1465fa",
-    "packages": [
+    "content-hash": "1a6e50570d961cf0da8297d2a399778b",
+    "packages": [],
+    "packages-dev": [
         {
             "name": "nette/php-generator",
             "version": "v4.1.6",
@@ -162,7 +163,6 @@
             "time": "2024-08-07T15:39:19+00:00"
         }
     ],
-    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
