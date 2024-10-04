@@ -3,6 +3,9 @@
   "type": "library",
   "description": "Types for Telegram API",
   "license": ["GPL-3.0-or-later"],
+  "require": {
+    "php": "^8.2"
+  },
   "authors": [
     {
       "name": "Yivi",
