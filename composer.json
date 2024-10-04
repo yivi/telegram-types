@@ -1,0 +1,17 @@
+{
+  "name": "yivoff/telegram-types",
+  "type": "library",
+  "version": "0.7.0",
+  "authors": [
+    {
+      "name": "Yivi",
+      "email": "ivan@yivoff.com"
+    }
+  ],
+  "autoload": {
+    "Yivoff/TelegramType" : "src/Type"
+  },
+  "require-dev": {
+    "nette/php-generator": "^4.1"
+  }
+}
